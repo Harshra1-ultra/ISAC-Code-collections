@@ -320,55 +320,30 @@ Please make sure that the code is publicly accessible and that the corresponding
 
 ---
 
-## Important Notes
+## ⚖️ Copyright, Intellectual Property & Legal Disclaimer
 
-### 1. Original Authors Own the Code
+### 1. Intellectual Property & Copyright Ownership
+* **All third-party code repositories, simulation packages, datasets, software implementations, and research papers listed in this collection are the exclusive intellectual property and copyright of their respective authors, institutions, and publishers (e.g., IEEE, Elsevier, Springer, ACM, etc.).**
+* This repository **does NOT claim ownership, copyright, or licensing rights** over any linked third-party source code, simulations, or published articles.
+* This repository functions strictly as an **educational index, academic curation directory, and research guide** pointing researchers to publicly accessible author-hosted repositories and publisher DOIs.
 
-All codes listed in this repository belong to their respective authors and institutions. This collection **does not claim ownership of any third-party code**.
+### 2. Fair Use & Academic Non-Commercial Purpose
+* This repository is curated and maintained purely for **non-commercial, educational, and academic research purposes** under the principles of **Fair Use** (17 U.S. Code § 107 and international fair dealing equivalents).
+* The inclusion of bibliographic metadata (paper titles, author names, publication venues, DOIs, and hyperlinks) follows standard international academic referencing practices to enhance the discoverability, reproducibility, and citation of the original authors' work.
 
-Please follow the license specified by each individual repository.
+### 3. Compliance with Third-Party Licenses & Mandatory Citation
+* Anyone accessing, downloading, or using the linked repositories must comply fully with the **individual license terms** specified in each original repository (e.g., MIT, Apache 2.0, GPL, BSD, Creative Commons, or custom research licenses).
+* If you use any implementation from this collection in research that results in a publication, you **must cite the original research publication** as specified by the respective authors.
 
-### 2. Always Check the License
+### 4. Notice & Takedown Policy (Content Removal Request)
+* We deeply respect the intellectual property rights of all authors, researchers, and academic publishers.
+* If you are an author, copyright owner, or institutional representative and wish to have your paper reference, code link, or metadata **modified, updated, or removed** from this directory, please open an issue or contact the repository maintainer directly at:
+  📧 **harshraone@gmail.com**
+* Any requested removal or modification will be **promptly and unconditionally honored**.
 
-Before modifying, redistributing, or incorporating code into another project, check the license of the original repository.
-
-### 3. Cite the Original Paper
-
-If you use a particular implementation in your research, cite the **corresponding original publication**.
-
-### 4. Reproducibility
-
-The availability of source code does not necessarily guarantee exact reproduction of the reported results. Differences may arise from:
-
-* MATLAB/Python versions
-* Solver versions
-* Hardware
-* Random seeds
-* Channel-generation methods
-* Parameter settings
-* Dataset versions
-* Numerical precision
-* Optimization initialization
-
-Therefore, carefully compare the implementation with the methodology described in the original paper.
-
----
-
-## Disclaimer
-
-This repository is intended solely as a **research and educational resource**.
-
-The inclusion of a paper or code repository does not imply endorsement of the work, its authors, its institution, or its results.
-
-The maintainer does not guarantee that:
-
-* The listed code is bug-free
-* The code is actively maintained
-* The reported results can be reproduced exactly
-* External repositories will remain available
-* External links will remain valid
-
-Please refer to the original authors and repositories for technical questions concerning individual implementations.
+### 5. Limitation of Liability & No Warranty
+* All external links, code references, and bibliographic entries are provided on an **"AS IS" BASIS WITHOUT WARRANTIES OF ANY KIND**, express or implied, including but not limited to warranties of accuracy, merchantability, fitness for a particular purpose, non-infringement, or reproducibility.
+* The repository maintainer is not liable for any issues, damages, bugs, or data loss arising from the use of third-party implementations. Users execute and evaluate third-party code entirely at their own risk.
 
 ---
 
