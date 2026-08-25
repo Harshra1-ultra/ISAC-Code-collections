@@ -182,7 +182,7 @@ The code should be considered a supplementary research resource rather than a re
 | No. | Paper Title   | Authors   |   Year | Venue                | Topic   | Code     |
 | --: | ------------- | --------- | -----: | -------------------- | ------- | -------- |
 |   1 | [Unsupervised Learning for Joint Beamforming Design in RIS-Aided ISAC Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10533223) | Junjie Ye etal | 2024 | IEEE Wireless Communications Letters | [ISAC,RIS,beamforming design ,lightweight network,unsupervised learning] | [https://github.com/Yejacky456/DL-Beamforming-RIS-ISAC] |
-|   2|[Multi-Domain Optimization Framework for ISAC: From Electromagnetic Shaping to Network Cooperation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11347588)| R. Liu etal|  IEEE Wireless Communications |Integrated sensing and communication (ISAC), reconfigurable antenna array, signal processing, resource allocation, optimization| [https://github.com/RangLiu0706/Multi-Domain-Optimization-for-ISAC]|
+|   2|[Multi-Domain Optimization Framework for ISAC: From Electromagnetic Shaping to Network Cooperation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11347588)| R. Liu etal| 2026|  IEEE Wireless Communications |Integrated sensing and communication (ISAC), reconfigurable antenna array, signal processing, resource allocation, optimization| [https://github.com/RangLiu0706/Multi-Domain-Optimization-for-ISAC]|
 |  3| | |  | | |
 
 
