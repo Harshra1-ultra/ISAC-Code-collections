@@ -264,9 +264,7 @@ This repository focuses on code related to, but not limited to, the following IS
 ---
 
 ## Code Categories
-
 To make the collection easier to navigate, projects can be classified using the following tags:
-
 `MIMO-ISAC`
 `RIS-ISAC`
 `IRS-ISAC`
