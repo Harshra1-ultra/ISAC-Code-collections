@@ -20,7 +20,7 @@ Please **do not cite this repository as a substitute for citing the original res
 
 ## Latest Update: [25/08/2026]
 
-**Number of Papers/Projects:** 33
+**Number of Papers/Projects:** 43
 
 ---
 
@@ -83,25 +83,35 @@ The code should be considered a supplementary research resource rather than a re
 | 12 | [Cell-Free ISAC MIMO Systems: Joint Sensing and Communication Beamforming](https://doi.org/10.1109/tcomm.2024.3490740) | U. Demirhan and A. Alkhateeb | 2025 | IEEE Transactions on Communications | Cell-free ISAC, MIMO, joint beamforming, sensing and communication | [Code](https://github.com/umut-demirhan/Cell-free-ISAC-beamforming) |
 | 13 | [Sensing-Aided Beamforming for LEO Satellite-Ground Communications](https://doi.org/10.1109/globecom59602.2025.11432021) | Q. He, Y. Liu, and K. Yang | 2025 | IEEE GLOBECOM | Deep learning, RNN, hypernetwork, sensing-aided beamforming, LEO | [Code](https://github.com/Eric-he-cn/SANet_source_codes) |
 | 14 | [CORDIS: A Scalable Coordinated Resource Allocation Framework for Distributed Cell-Free ISAC](https://doi.org/10.1109/ieeeconf67917.2025.11443385) | M. Zafari, [R. Liu](https://rangliu0706.github.io/), and A. L. Swindlehurst | 2025 | IEEE Asilomar Conference on Signals, Systems, and Computers | Cell-free ISAC, distributed optimization, resource allocation, ADMM | [Code](https://github.com/LS-Wireless/CORDIS) |
-| 15 | [Unsupervised Learning for Joint Beamforming Design in RIS-Aided ISAC Systems](https://ieeexplore.ieee.org/document/10533223) | J. Ye, X. Mu, and Y. Liu | 2024 | IEEE Wireless Communications Letters | ISAC, RIS, beamforming design, lightweight network, unsupervised learning | [Code](https://github.com/Yejacky456/DL-Beamforming-RIS-ISAC) |
-| 16 | [A Novel Joint Angle-Range-Velocity Estimation Method for MIMO-OFDM ISAC Systems](https://ieeexplore.ieee.org/document/10634583) | Z. Xiao, [R. Liu](https://rangliu0706.github.io/), [M. Li](https://minglabdut.com/resource.html), Q. Liu, and A. L. Swindlehurst | 2024 | IEEE Transactions on Signal Processing | MIMO-OFDM, ISAC, parameter estimation, angle estimation, range estimation, velocity estimation | [Code](https://github.com/RangLiu0706/Parameter-Estimation-MIMO-OFDM-ISAC) |
-| 17 | [SNR/CRB-Constrained Joint Beamforming and Reflection Designs for RIS-ISAC Systems](https://arxiv.org/abs/2301.11134) | [R. Liu](https://rangliu0706.github.io/), [M. Li](https://minglabdut.com/resource.html), Q. Liu, and A. L. Swindlehurst | 2024 | IEEE Transactions on Wireless Communications | RIS-ISAC, beamforming, reflection design, SNR, CRB optimization | [Official Code](https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC) / [Reproduction](https://github.com/wozaimoyu/ML-Based-Optimization-for-RIS-Assisted-ISAC-Systems) |
-| 18 | [Cramer-Rao Bound Optimization for Active RIS-Empowered ISAC Systems](https://ieeexplore.ieee.org/document/10496515) | Q. Zhu, [M. Li](https://minglabdut.com/resource.html), [R. Liu](https://rangliu0706.github.io/), and Q. Liu | 2024 | IEEE Transactions on Wireless Communications | Active RIS, ISAC, CRB optimization, beamforming, sensing | [Code](https://github.com/RangLiu0706/Active-RIS-ISAC-CRB) |
-| 19 | [Semi-Supervised End-to-End Learning for Integrated Sensing and Communications](https://ieeexplore.ieee.org/document/10624785) | J. M. Mateos-Ramos, B. Chatelier, C. Häger, M. F. Keskin, L. Le Magoarou, and H. Wymeersch | 2024 | IEEE ICMLCN | ISAC, semi-supervised learning, deep learning, end-to-end learning | [Code](https://github.com/josemateosramos/SSLISAC) |
-| 20 | [Superposed IM-OFDM (S-IM-OFDM): An Enhanced OFDM Waveform for Integrated Sensing and Communications](https://doi.org/10.1109/tvt.2024.3412213) | Z. Yang, S. Gao, X. Cheng, and L. Yang | 2024 | IEEE Transactions on Vehicular Technology | ISAC, OFDM, waveform design, index modulation | [Code](https://github.com/PKU-PCNI/S-IM-OFDM) |
-| 21 | [ISAC with Backscattering RFID Tags: Joint Beamforming Design](https://doi.org/10.1109/icc51166.2024.10622961) | H. Luo, U. Demirhan, and A. Alkhateeb | 2024 | IEEE ICC | Backscatter, RFID, ISAC, joint beamforming | [Code](https://github.com/LacoLuo/ISAC-Backscatter) |
-| 22 | [Deep Learning-Based Design of Uplink Integrated Sensing and Communication](https://doi.org/10.1109/twc.2024.3373797) | Q. Qi, X. Chen, C. Zhong, C. Yuen, and Z. Zhang | 2024 | IEEE Transactions on Wireless Communications | Deep learning, uplink ISAC, neural network optimization | — |
-| 23 | [Sensing-Assisted High Reliable Communication: A Transformer-Based Beamforming Approach](https://doi.org/10.1109/jstsp.2024.3405859) | Y. Cui, J. Nie, X. Cao, T. Yu, J. Zou, J. Mu, and X. Jing | 2024 | IEEE Journal of Selected Topics in Signal Processing | Transformer, sensing-assisted communication, beamforming | — |
-| 24 | [Integrated Sensing and Communication with Reconfigurable Intelligent Surfaces: Opportunities, Applications, and Future Directions](https://ieeexplore.ieee.org/document/10077119) | [R. Liu](https://rangliu0706.github.io/), [M. Li](https://minglabdut.com/resource.html), H. Luo, Q. Liu, and A. L. Swindlehurst | 2023 | IEEE Wireless Communications | RIS, ISAC, intelligent surfaces, applications, future directions | [Code](https://github.com/RangLiu0706/RIS_ISAC_magazine) |
-| 25 | [RIS-Aided Integrated Sensing and Communication: Joint Beamforming and Reflection Design](https://ieeexplore.ieee.org/document/10052711) | H. Luo, [R. Liu](https://rangliu0706.github.io/), [M. Li](https://minglabdut.com/resource.html), and Q. Liu | 2023 | IEEE Transactions on Vehicular Technology | RIS-ISAC, joint beamforming, reflection design | [Code](https://github.com/RangLiu0706/RIS-ISAC-Beamforming) |
-| 26 | [Joint Transceiver Beamforming and Reflecting Design for Active RIS-Aided ISAC Systems](https://ieeexplore.ieee.org/document/10054402) | Q. Zhu, [M. Li](https://minglabdut.com/resource.html), [R. Liu](https://rangliu0706.github.io/), and Q. Liu | 2023 | IEEE Transactions on Vehicular Technology | Active RIS, ISAC, transceiver beamforming, reflecting design, detection | [Code](https://github.com/RangLiu0706/Active-RIS-ISAC-detection) |
-| 27 | [SCA-Based Beamforming Optimization for IRS-Enabled Secure Integrated Sensing and Communication](https://ieeexplore.ieee.org/document/10437283/) | V. Kumar, M. Chafii, A. L. Swindlehurst, L.-N. Tran, and M. F. Flanagan | 2023 | IEEE Global Communications Conference (GLOBECOM) | Secure ISAC, IRS, beamforming, physical-layer security, SCA, SOCP | [Code](https://github.com/vkumar-ucd/secure_ISAC_GC23) |
-| 28 | [Sensing User's Activity, Channel, and Location with Near-Field Extra-Large-Scale MIMO](https://ieeexplore.ieee.org/document/10010480) | L. Qiao, J. Zhang, F. Gao, S. Zhang, and R. Schober | 2023 | IEEE Transactions on Communications | Near-field XL-MIMO, ISAC, activity sensing, channel sensing, localization | [Code](https://github.com/liqiao19/ISAC) |
-| 29 | [Optimal Linear Precoder Design for MIMO-OFDM Integrated Sensing and Communications Based on Bayesian Cramér-Rao Bound](https://ieeexplore.ieee.org/document/10437293) | X. Li, V. C. Andrei, U. J. Mönich, and H. Boche | 2023 | IEEE GLOBECOM | MIMO-OFDM ISAC, linear precoding, Bayesian CRB, precoder optimization | [Code](https://github.com/xinyanglii/isac-mimo-ofdm-wf) |
-| 30 | [ISAC Simulation Framework](https://github.com/xinyanglii/isac) | X. Li, V. C. Andrei, U. J. Mönich, and H. Boche | 2023 | GitHub Simulation Framework | PyTorch, ISAC simulation, deep learning, waveform/beamforming | [Code](https://github.com/xinyanglii/isac) |
-| 31 | [Joint Transmit Waveform and Passive Beamforming Design for RIS-Aided DFRC Systems](https://ieeexplore.ieee.org/document/9769997) | [R. Liu](https://rangliu0706.github.io/), [M. Li](https://minglabdut.com/resource.html), Y. Liu, Q. Wu, and Q. Liu | 2022 | IEEE Journal of Selected Topics in Signal Processing | RIS, ISAC, DFRC, waveform design, passive beamforming | [Code](https://github.com/RangLiu0706/waveform-design-for-RIS-ISAC) |
-| 32 | [Joint Waveform and Filter Designs for STAP-SLP-Based MIMO-DFRC Systems](https://ieeexplore.ieee.org/document/9724259) | [R. Liu](https://rangliu0706.github.io/), [M. Li](https://minglabdut.com/resource.html), Q. Liu, and A. L. Swindlehurst | 2022 | IEEE Journal on Selected Areas in Communications | MIMO-DFRC, ISAC, STAP, SLP, waveform design, filter design | [Code](https://github.com/RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC) |
-| 33 | [Partially-Connected Hybrid Beamforming Design for Integrated Sensing and Communication Systems](https://doi.org/10.1109/tcomm.2022.3202215) | X. Wang, Z. Fei, J. A. Zhang, and Jie Xu | 2022 | IEEE Transactions on Communications | Hybrid beamforming, MIMO-ISAC, partially-connected architecture | [Code](https://github.com/wxy1018/ISAC_Hybrid_Precoding) |
+| 15 | [Joint Beamforming and Trajectory Optimization for Multi-UAV-Assisted Integrated Sensing and Communication Systems](https://arxiv.org/abs/2503.16915) | Y. L. Tun, Z. Han, C. S. Hong, et al. | 2025 | arXiv / IEEE | UAV-ISAC, multi-UAV networking, trajectory optimization, fractional programming, DRL | [Reproduction](https://github.com/ReikiC/RP-JBT-Opti-MUAV-ISAC) |
+| 16 | [AI-Enhanced Deep Reinforcement Learning for Dynamic Beamforming in ISAC Systems](https://github.com/satya-supercluster/AI-Enhanced-ISAC-Beamforming) | S. S. Sahoo et al. | 2025 | Open-Source Research Framework | Deep Reinforcement Learning, dynamic beamforming, ISAC optimization | [Code](https://github.com/satya-supercluster/AI-Enhanced-ISAC-Beamforming) |
+| 17 | [Unsupervised Learning for Joint Beamforming Design in RIS-Aided ISAC Systems](https://ieeexplore.ieee.org/document/10533223) | J. Ye, X. Mu, and Y. Liu | 2024 | IEEE Wireless Communications Letters | ISAC, RIS, beamforming design, lightweight network, unsupervised learning | [Code](https://github.com/Yejacky456/DL-Beamforming-RIS-ISAC) |
+| 18 | [A Novel Joint Angle-Range-Velocity Estimation Method for MIMO-OFDM ISAC Systems](https://ieeexplore.ieee.org/document/10634583) | Z. Xiao, [R. Liu](https://rangliu0706.github.io/), [M. Li](https://minglabdut.com/resource.html), Q. Liu, and A. L. Swindlehurst | 2024 | IEEE Transactions on Signal Processing | MIMO-OFDM, ISAC, parameter estimation, angle estimation, range estimation, velocity estimation | [Code](https://github.com/RangLiu0706/Parameter-Estimation-MIMO-OFDM-ISAC) |
+| 19 | [SNR/CRB-Constrained Joint Beamforming and Reflection Designs for RIS-ISAC Systems](https://arxiv.org/abs/2301.11134) | [R. Liu](https://rangliu0706.github.io/), [M. Li](https://minglabdut.com/resource.html), Q. Liu, and A. L. Swindlehurst | 2024 | IEEE Transactions on Wireless Communications | RIS-ISAC, beamforming, reflection design, SNR, CRB optimization | [Official Code](https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC) / [Reproduction](https://github.com/wozaimoyu/ML-Based-Optimization-for-RIS-Assisted-ISAC-Systems) |
+| 20 | [Cramer-Rao Bound Optimization for Active RIS-Empowered ISAC Systems](https://ieeexplore.ieee.org/document/10496515) | Q. Zhu, [M. Li](https://minglabdut.com/resource.html), [R. Liu](https://rangliu0706.github.io/), and Q. Liu | 2024 | IEEE Transactions on Wireless Communications | Active RIS, ISAC, CRB optimization, beamforming, sensing | [Code](https://github.com/RangLiu0706/Active-RIS-ISAC-CRB) |
+| 21 | [Integrated Sensing and Communication With Massive MIMO: A Unified Tensor Approach for Channel and Target Parameter Estimation](https://doi.org/10.1109/TWC.2024.3351856) | R. Zhang, L. Cheng, S. Wang, Y. Lou, Y. Gao, W. Wu, and D. W. K. Ng | 2024 | IEEE Transactions on Wireless Communications | Massive MIMO-ISAC, tensor decomposition, channel estimation, parameter estimation | [Code](https://github.com/ruoyuzhang-ee/Massive-MIMO-ISAC-A-Unified-Tensor-Approach-for-Channel-and-Target-Parameter-Estimation) |
+| 22 | [Semi-Supervised End-to-End Learning for Integrated Sensing and Communications](https://ieeexplore.ieee.org/document/10624785) | J. M. Mateos-Ramos, B. Chatelier, C. Häger, M. F. Keskin, L. Le Magoarou, and H. Wymeersch | 2024 | IEEE ICMLCN | ISAC, semi-supervised learning, deep learning, end-to-end learning | [Code](https://github.com/josemateosramos/SSLISAC) |
+| 23 | [Superposed IM-OFDM (S-IM-OFDM): An Enhanced OFDM Waveform for Integrated Sensing and Communications](https://doi.org/10.1109/tvt.2024.3412213) | Z. Yang, S. Gao, X. Cheng, and L. Yang | 2024 | IEEE Transactions on Vehicular Technology | ISAC, OFDM, waveform design, index modulation | [Code](https://github.com/PKU-PCNI/S-IM-OFDM) |
+| 24 | [ISAC with Backscattering RFID Tags: Joint Beamforming Design](https://doi.org/10.1109/icc51166.2024.10622961) | H. Luo, U. Demirhan, and A. Alkhateeb | 2024 | IEEE ICC | Backscatter, RFID, ISAC, joint beamforming | [Code](https://github.com/LacoLuo/ISAC-Backscatter) |
+| 25 | [Reasoning Over the Air: A Reasoning-Based Implicit Semantic Communication Framework](https://ieeexplore.ieee.org/document/10250170) | Y. Liao, Y. Gao, Y. Cang, and D. Wu | 2024 | IEEE Transactions on Wireless Communications | Semantic-ISAC, generative adversarial imitation learning, 6G semantic communications | [Code](https://github.com/Yiwei-Liao/iSAC) |
+| 26 | [Deep Learning-Based Design of Uplink Integrated Sensing and Communication](https://doi.org/10.1109/twc.2024.3373797) | Q. Qi, X. Chen, C. Zhong, C. Yuen, and Z. Zhang | 2024 | IEEE Transactions on Wireless Communications | Deep learning, uplink ISAC, neural network optimization | — |
+| 27 | [Sensing-Assisted High Reliable Communication: A Transformer-Based Beamforming Approach](https://doi.org/10.1109/jstsp.2024.3405859) | Y. Cui, J. Nie, X. Cao, T. Yu, J. Zou, J. Mu, and X. Jing | 2024 | IEEE Journal of Selected Topics in Signal Processing | Transformer, sensing-assisted communication, beamforming | — |
+| 28 | [Integrated Sensing and Communication with Reconfigurable Intelligent Surfaces: Opportunities, Applications, and Future Directions](https://ieeexplore.ieee.org/document/10077119) | [R. Liu](https://rangliu0706.github.io/), [M. Li](https://minglabdut.com/resource.html), H. Luo, Q. Liu, and A. L. Swindlehurst | 2023 | IEEE Wireless Communications | RIS, ISAC, intelligent surfaces, applications, future directions | [Code](https://github.com/RangLiu0706/RIS_ISAC_magazine) |
+| 29 | [RIS-Aided Integrated Sensing and Communication: Joint Beamforming and Reflection Design](https://ieeexplore.ieee.org/document/10052711) | H. Luo, [R. Liu](https://rangliu0706.github.io/), [M. Li](https://minglabdut.com/resource.html), and Q. Liu | 2023 | IEEE Transactions on Vehicular Technology | RIS-ISAC, joint beamforming, reflection design | [Code](https://github.com/RangLiu0706/RIS-ISAC-Beamforming) |
+| 30 | [Joint Transceiver Beamforming and Reflecting Design for Active RIS-Aided ISAC Systems](https://ieeexplore.ieee.org/document/10054402) | Q. Zhu, [M. Li](https://minglabdut.com/resource.html), [R. Liu](https://rangliu0706.github.io/), and Q. Liu | 2023 | IEEE Transactions on Vehicular Technology | Active RIS, ISAC, transceiver beamforming, reflecting design, detection | [Code](https://github.com/RangLiu0706/Active-RIS-ISAC-detection) |
+| 31 | [SCA-Based Beamforming Optimization for IRS-Enabled Secure Integrated Sensing and Communication](https://ieeexplore.ieee.org/document/10437283/) | V. Kumar, M. Chafii, A. L. Swindlehurst, L.-N. Tran, and M. F. Flanagan | 2023 | IEEE Global Communications Conference (GLOBECOM) | Secure ISAC, IRS, beamforming, physical-layer security, SCA, SOCP | [Code](https://github.com/vkumar-ucd/secure_ISAC_GC23) |
+| 32 | [A RIS-Based Vehicle DOA Estimation Method With Integrated Sensing and Communication System](https://doi.org/10.1109/TITS.2023.3330172) | Z. Chen, P. Chen, Z. Guo, Y. Zhang, and X. Wang | 2023 | IEEE Transactions on Intelligent Transportation Systems | RIS-ISAC, vehicular sensing, DoA estimation, passive sensing, localization | [Code](https://github.com/chenpengseu/PassiveDOA-ISAC-RIS) |
+| 33 | [DFT-Spread Orthogonal Time Frequency Space System with Superimposed Pilots for Terahertz Integrated Sensing and Communication](https://doi.org/10.1109/TWC.2023.3280053) | Y. Wu, C. Han, and Z. Chen | 2023 | IEEE Transactions on Wireless Communications | OTFS-ISAC, THz-ISAC, superimposed pilots, radar sensing, parameter estimation | [Code](https://github.com/YongzhiWu/OTFS_radar) |
+| 34 | [Sensing User's Activity, Channel, and Location with Near-Field Extra-Large-Scale MIMO](https://ieeexplore.ieee.org/document/10010480) | L. Qiao, J. Zhang, F. Gao, S. Zhang, and R. Schober | 2023 | IEEE Transactions on Communications | Near-field XL-MIMO, ISAC, activity sensing, channel sensing, localization | [Code](https://github.com/liqiao19/ISAC) |
+| 35 | [An Integrated Sensing and Communication Physical Layer Model (ISAC-PLM) for IEEE 802.11ay/bf](https://ieeexplore.ieee.org/document/10018014) | J. Palacios, C. S. R. Murthy, J. Widmer, et al. | 2023 | IEEE Transactions on Mobile Computing | Wi-Fi ISAC, IEEE 802.11bf, physical layer model, mmWave sensing | [Code](https://github.com/wigig-tools/isac-plm) |
+| 36 | [Optimal Linear Precoder Design for MIMO-OFDM Integrated Sensing and Communications Based on Bayesian Cramér-Rao Bound](https://ieeexplore.ieee.org/document/10437293) | X. Li, V. C. Andrei, U. J. Mönich, and H. Boche | 2023 | IEEE GLOBECOM | MIMO-OFDM ISAC, linear precoding, Bayesian CRB, precoder optimization | [Code](https://github.com/xinyanglii/isac-mimo-ofdm-wf) |
+| 37 | [ISAC Simulation Framework](https://github.com/xinyanglii/isac) | X. Li, V. C. Andrei, U. J. Mönich, and H. Boche | 2023 | GitHub Simulation Framework | PyTorch, ISAC simulation, deep learning, waveform/beamforming | [Code](https://github.com/xinyanglii/isac) |
+| 38 | [Cramer-Rao Bound Optimization for Joint Radar-Communication Design](https://doi.org/10.1109/TSP.2021.3135692) | F. Liu, Y.-F. Liu, A. Li, C. Masouros, and Y. C. Eldar | 2022 | IEEE Transactions on Signal Processing | DFRC, CRB optimization, joint beamforming, radar-communication design | [Code](https://github.com/yuanhao-cui/crb-isac-tap-2022) |
+| 39 | [Joint Transmit Waveform and Passive Beamforming Design for RIS-Aided DFRC Systems](https://ieeexplore.ieee.org/document/9769997) | [R. Liu](https://rangliu0706.github.io/), [M. Li](https://minglabdut.com/resource.html), Y. Liu, Q. Wu, and Q. Liu | 2022 | IEEE Journal of Selected Topics in Signal Processing | RIS, ISAC, DFRC, waveform design, passive beamforming | [Code](https://github.com/RangLiu0706/waveform-design-for-RIS-ISAC) |
+| 40 | [Joint Waveform and Filter Designs for STAP-SLP-Based MIMO-DFRC Systems](https://ieeexplore.ieee.org/document/9724259) | [R. Liu](https://rangliu0706.github.io/), [M. Li](https://minglabdut.com/resource.html), Q. Liu, and A. L. Swindlehurst | 2022 | IEEE Journal on Selected Areas in Communications | MIMO-DFRC, ISAC, STAP, SLP, waveform design, filter design | [Code](https://github.com/RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC) |
+| 41 | [Partially-Connected Hybrid Beamforming Design for Integrated Sensing and Communication Systems](https://doi.org/10.1109/tcomm.2022.3202215) | X. Wang, Z. Fei, J. A. Zhang, and Jie Xu | 2022 | IEEE Transactions on Communications | Hybrid beamforming, MIMO-ISAC, partially-connected architecture | [Code](https://github.com/wxy1018/ISAC_Hybrid_Precoding) |
+| 42 | [Joint Waveform Design and Passive Beamforming for RIS-Assisted Dual-Functional Radar-Communication Systems](https://doi.org/10.1109/TVT.2021.3073041) | X. Wang, Z. Fei, Z. Zheng, and J. Guo | 2021 | IEEE Transactions on Vehicular Technology | RIS-ISAC, DFRC, waveform design, passive beamforming, manifold optimization | [Code](https://github.com/wxy1018/Waveform-Reflection-Design-for-RIS-ISAC) |
+| 43 | [Toward Dual-Functional Radar-Communication Systems: Optimal Waveform Design](https://doi.org/10.1109/TSP.2018.2847648) | F. Liu, L. Zhou, C. Masouros, A. Li, W. Luo, and A. Petropulu | 2018 | IEEE Transactions on Signal Processing | DFRC, waveform design, joint beamforming, radar-communication trade-offs | [Code](https://github.com/fan-liu-sustech/DFRC-Waveform-Design) |
 
 > **Note:** Please cite the original paper when using the corresponding code.
 
@@ -257,27 +267,27 @@ This repository focuses on code related to, but not limited to, the following IS
 
 To make the collection easier to navigate, projects can be classified using the following tags:
 
-MIMO-ISAC
-RIS-ISAC
-IRS-ISAC
-Near-Field-ISAC
-XL-MIMO
-Beamforming
-Waveform-Design
-Localization
-Target-Detection
-Multi-User-ISAC
-Multi-Target-ISAC
-Optimization
-Machine-Learning
-Deep-Learning
-Reinforcement-Learning
-Cell-Free-ISAC
-UAV-ISAC
-THz-ISAC
-mmWave-ISAC
-V2X-ISAC
-Semantic-ISAC
+`MIMO-ISAC`
+`RIS-ISAC`
+`IRS-ISAC`
+`Near-Field-ISAC`
+`XL-MIMO`
+`Beamforming`
+`Waveform-Design`
+`Localization`
+`Target-Detection`
+`Multi-User-ISAC`
+`Multi-Target-ISAC`
+`Optimization`
+`Machine-Learning`
+`Deep-Learning`
+`Reinforcement-Learning`
+`Cell-Free-ISAC`
+`UAV-ISAC`
+`THz-ISAC`
+`mmWave-ISAC`
+`V2X-ISAC`
+`Semantic-ISAC`
 
 ---
 
@@ -359,6 +369,20 @@ The maintainer does not guarantee that:
 * External links will remain valid
 
 Please refer to the original authors and repositories for technical questions concerning individual implementations.
+
+---
+
+## Acknowledgement
+
+This collection is inspired by the idea of maintaining centralized code collections for wireless communications and RIS/IRS research.
+
+The objective is to promote:
+
+**Open Research → Reproducible Research → Extensible Research → Better ISAC Research**
+
+If this collection is useful for your research, please consider giving the repository a **STAR** ⭐.
+
+If you maintain an ISAC code repository and would like it included, please open an issue or submit a pull request.
 
 ---
 
