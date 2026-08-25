@@ -89,7 +89,20 @@ The code should be considered a supplementary research resource rather than a re
 > **Note:** Please cite the original paper when using the corresponding code.
 
 ---
+## Related ISAC Resources
 
+This collection complements existing open-source ISAC research resources, including (Please check):
+
+- **Must-Reading-on-ISAC**, contributed by **Yuanhao Cui (BUPT)** and
+  **Fan Liu (SUSTech)**:
+  [GitHub](https://github.com/yuanhao-cui/Must-Reading-on-ISAC)
+
+- **Awesome Integrated Sensing and Communications (ISAC)**, maintained by
+  **Di Zhang, Yuanhao Cui, Xiaowen Cao, Nanchi Su, Yi Gong, Fan Liu,
+  Weijie Yuan, Xiaojun Jing, J. Andrew Zhang, Jie Xu, Christos Masouros,
+  Dusit Niyato, and Marco Di Renzo**:
+  [GitHub](https://github.com/yuanhao-cui/Awesome-Integrated-Sensing-and-Communications)
+---
 ## Recommended Reading
 
 For researchers who are new to ISAC, it is recommended to first study foundational surveys, tutorials, and overview papers before working directly with the simulation codes.
