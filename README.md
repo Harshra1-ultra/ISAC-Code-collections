@@ -334,7 +334,7 @@ If you maintain an ISAC code repository and would like it included, please open 
 
 ## Maintainer
 
-**[Harsh RAj]**
+**[Harsh Raj]**
 
 ISAC Codes Collection
 [[GitHub Profile / Website](https://harshra1-ultra.github.io/harsh/index.html)]
