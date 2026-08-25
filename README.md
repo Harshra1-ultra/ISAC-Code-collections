@@ -334,10 +334,10 @@ If you maintain an ISAC code repository and would like it included, please open 
 
 ## Maintainer
 
-**[Your Name]**
+**[Harsh RAj]**
 
 ISAC Codes Collection
-[GitHub Profile / Website]
+[[GitHub Profile / Website](https://harshra1-ultra.github.io/harsh/index.html)]
 
 ---
 
