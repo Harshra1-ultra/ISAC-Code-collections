@@ -181,7 +181,7 @@ The code should be considered a supplementary research resource rather than a re
 
 | No. | Paper Title   | Authors   |   Year | Venue                | Topic   | Code     |
 | --: | ------------- | --------- | -----: | -------------------- | ------- | -------- |
-|   1 | [Unsupervised Learning for Joint Beamforming Design in RIS-Aided ISAC Systems] | [Junjie Ye etal] | [2024] | [IEEE Wireless Communications Letters] | [ISAC,RIS,beamforming design ,lightweight network,unsupervised learning] | [https://github.com/Yejacky456/DL-Beamforming-RIS-ISAC] |
+|   1 | [Unsupervised Learning for Joint Beamforming Design in RIS-Aided ISAC Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10533223) | [Junjie Ye etal] | [2024] | [IEEE Wireless Communications Letters] | [ISAC,RIS,beamforming design ,lightweight network,unsupervised learning] | [https://github.com/Yejacky456/DL-Beamforming-RIS-ISAC] |
 
 
 > **Note:** Please cite the original paper when using the corresponding code.
