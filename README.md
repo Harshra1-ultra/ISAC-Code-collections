@@ -1,4 +1,4 @@
-# ISAC-Codes-Collection: A Complete Collection of Codes for ISAC Research
+# ISAC-Codes-Collection: A Collection of Codes for ISAC Research (in both MATLAB and python environments)
 
 This repository is a collection of publicly available **codes, simulation packages, datasets, and reproducible implementations for Integrated Sensing and Communication (ISAC)** research.
 
