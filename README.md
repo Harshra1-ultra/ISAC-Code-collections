@@ -116,7 +116,7 @@ The code should be considered a supplementary research resource rather than a re
 | 45 | [Joint Radar and Communication Design: Applications, State-of-the-Art, and the Road Ahead](https://ieeexplore.ieee.org/document/8999605) | F. Liu, C. Masouros, A. P. Petropulu, H. Griffiths, and L. Hanzo | 2020 | IEEE Transactions on Communications | ISAC, Survey, DFRC, Co-design, Spectrum Sharing | [Code](https://github.com/yuanhao-cui/Must-Reading-on-ISAC/tree/main/Codes/Fan2020TCOM%20by%20Nate%20Raymondi) |
 | 46 | [5G-based System-level Integrated Sensing and Communication Simulator](https://github.com/xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator) | Dongsheng XUE| 2023| Simulation useful code | ISAC, OFDM, 5G | [code](https://github.com/xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator)|
 | 47 | [Synesthesia of Machines (SoM)-Aided Online FDD Precoding via Heterogeneous Multi-Modal Sensing: A Vertical Federated Learning Approach](https://ieeexplore.ieee.org/document/11316381)| Haotian Zhang, Shijian Gao, Weibo Wen, Xiang Cheng, Liuqing Yang| 2026 | IEEE Transactions on Mobile Computing | Federated Learning ,Multimodal Sensor,Frequency Division Duplex, Vertical Federated Learning , Raw Data |[code](https://github.com/PKU-PCNI/DRL-ISAC)|
-
+|48|['Active RIS Aided ISAC Systems: Beamforming Design and Performance Analysis](https://ieeexplore.ieee.org/document/10319318)| Z. Yu, H. Ren, C. Pan, G. Zhou, B. Wang, M. Dong |2024|IEEE Transactions on Communications| RIS, IRS, active RIS, ISAC, DFRC| [code](https://github.com/Ryan-yzy/Active-RIS-ISAC)|
 > **Note:** Please cite the original paper when using the corresponding code.
 
 ---
