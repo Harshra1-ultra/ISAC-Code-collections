@@ -403,3 +403,7 @@ ISAC Codes Collection
 ## Repository Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Harshra1-ultra/ISAC-Code-collections&type=Date)](https://star-history.com/#Harshra1-ultra/ISAC-Code-collections&Date)
+
+<p align="center">
+  <img src="assets/star.gif" alt="Star this repository" width="400" />
+</p>
