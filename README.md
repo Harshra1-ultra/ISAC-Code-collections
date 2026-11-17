@@ -404,6 +404,6 @@ ISAC Codes Collection
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Harshra1-ultra/ISAC-Code-collections&type=Date)](https://star-history.com/#Harshra1-ultra/ISAC-Code-collections&Date)
 
-<p align="center">
+<!-- <p align="center">
   <img src="panda.gif" alt="Panda Star" width="400" />
-</p>
+</p> -->
